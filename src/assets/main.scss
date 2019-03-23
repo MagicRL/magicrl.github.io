@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:700');
+@import "~bootstrap/scss/bootstrap";
+
+html, body {
+  height: 100%;
+}
+
+#title {
+  // font-size: 5vw;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#app {
+  // height: 100%;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#logo {
+  width: 60%;
+  max-width: 450px;
+}
